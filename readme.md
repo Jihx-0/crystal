@@ -8,6 +8,7 @@ The biggest challenge for the project itself was working with the Javascript to 
 
 ## Design Approach 
 My approach was primarily to demonstrate my capabilities of being able to develop in a PHP/Javascript/MYSQL environment in an organized way. I added some CSS to provide some depth and interface to the table but did not go out of the way to over design. I opted to allow my localhost server to process PHP through the index.html page as a production server would allow, and included the PHP in the HTML. By doing this I was able to dynamically generate the table in the PHP by looping through the queried data.
+![Preview Image](https://github.com/Jihx-0/crystal-d-test/blob/main/crystaldtable.png)
 
 ## Potential Improvements
 I feel that there is room for improvement in terms of code reuseability in the Javascript file. Some of the XHR request stuff was not cooperating for me as reuseable, and I think that there can be some repeated code eliminated. I would also change the SQL statements to use bound parameters where appropriate.
