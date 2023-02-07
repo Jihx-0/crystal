@@ -8,8 +8,6 @@ I opted to allow my localhost server to process PHP through the index.html page 
 I used XAMPP as a local server to do this, so I added mine into the apache httpd conf file.
 If making changes, all services must be restarted.
 ![image](https://user-images.githubusercontent.com/96219624/217136976-387939c0-110f-4b31-a2b4-dce235bb888c.png)
-Source - https://stackoverflow.com/questions/4687208/using-htaccess-to-make-all-html-pages-to-run-as-php-files
-
 
 If this is not completed, the project will not run properly.
 ![image](https://user-images.githubusercontent.com/96219624/217137986-35cba3f4-ffc0-4b30-bce4-406d454602c9.png)
@@ -24,3 +22,6 @@ My approach was primarily to demonstrate my capabilities of being able to develo
 
 ## Potential Improvements
 I feel that there is room for improvement in terms of code reuseability in the Javascript file. Some of the XHR request stuff was not cooperating for me as reuseable, and I think that there can be some repeated code eliminated. I would also change the SQL statements to use bound parameters where appropriate.
+
+## Sources
+https://stackoverflow.com/questions/4687208/using-htaccess-to-make-all-html-pages-to-run-as-php-files
