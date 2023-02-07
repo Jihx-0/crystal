@@ -8,6 +8,7 @@ I opted to allow my localhost server to process PHP through the index.html page 
 I used XAMPP as a local server to do this, so I added mine into the apache httpd conf file.
 If making changes, all services must be restarted.
 ![image](https://user-images.githubusercontent.com/96219624/217136976-387939c0-110f-4b31-a2b4-dce235bb888c.png)
+Source - https://stackoverflow.com/questions/4687208/using-htaccess-to-make-all-html-pages-to-run-as-php-files
 
 
 If this is not completed, the project will not run properly.
