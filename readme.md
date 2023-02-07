@@ -9,7 +9,8 @@ I used XAMPP as a local server to do this, so I added mine into the apache httpd
 If making changes, all services must be restarted.
 ![image](https://user-images.githubusercontent.com/96219624/217136976-387939c0-110f-4b31-a2b4-dce235bb888c.png)
 
-If this is not completed, the project will not run properly.
+If this is not completed in some form or another, the project will not run properly and errors will occur.
+
 ![image](https://user-images.githubusercontent.com/96219624/217137986-35cba3f4-ffc0-4b30-bce4-406d454602c9.png)
 
 
